@@ -1,12 +1,11 @@
-# \# PiTrap – Cyber Deception \& Threat Intelligence Node
+PiTrap – Cyber Deception \& Threat Intelligence Node
 
-# 
 
 # PiTrap is a lightweight cyber deception platform built using Raspberry Pi that deploys honeypots to attract attackers, capture attack behavior and generate real-time threat intelligence.
 
 # 
 
-# \## Key Features
+Key Features
 
 # 
 
@@ -24,7 +23,7 @@
 
 # 
 
-# \## Architecture
+Architecture
 
 # 
 
@@ -32,7 +31,7 @@
 
 # 
 
-# \## Components
+Components
 
 # 
 
@@ -40,9 +39,9 @@
 
 # 
 
-# \* Cowrie SSH honeypot
+Cowrie SSH honeypot
 
-# \* Custom service emulation
+Custom service emulation
 
 # 
 
@@ -50,9 +49,9 @@
 
 # 
 
-# \* Network packet sniffer
+Network packet sniffer
 
-# \* Attack log collectors
+#Attack log collectors
 
 # 
 
@@ -60,9 +59,9 @@
 
 # 
 
-# \* Attack classification engine
+Attack classification engine
 
-# \* Threat intelligence generator
+Threat intelligence generator
 
 # 
 
@@ -70,29 +69,28 @@
 
 # 
 
-# \* IP reputation scoring
+IP reputation scoring
 
-# \* Automatic firewall blocking
+Automatic firewall blocking
 
 # 
 
-# \## Deployment
+Deployment
 
 # 
 
 # PiTrap can run on:
 
 # 
+Raspberry Pi
 
-# \* Raspberry Pi
+Linux server
 
-# \* Linux server
-
-# \* Docker container
+Docker container
 
 # 
 
-# \## Future Enhancements
+Future Enhancements
 
 # 
 
@@ -101,6 +99,7 @@
 # • Global threat intelligence sharing
 
 # • Multi-node PiTrap clusters
+
 
 
 
