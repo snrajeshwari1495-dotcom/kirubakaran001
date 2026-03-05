@@ -1,0 +1,8 @@
+flask
+scapy
+pandas
+numpy
+matplotlib
+requests
+pyyaml
+geoip2

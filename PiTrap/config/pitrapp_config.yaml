@@ -1,0 +1,15 @@
+honeypots:
+  ssh: true
+  http: true
+
+logging:
+  level: INFO
+  file: logs/pitrapp.log
+
+network:
+  interface: eth0
+  packet_capture: true
+
+automation:
+  auto_block: true
+  block_threshold: 5
